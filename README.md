@@ -4,3 +4,5 @@ Each garden is represented by a map with cells and doors, some of which are lock
 The gardens are inhabited by hornets, and the player, represented as a gardener, must avoid their stings while collecting bonuses like insecticide bombs and apples for energy boosts.<br>
 The gardener's energy depletes with movement and can be replenished by resting, but getting stung by hornets reduces energy.<br>
 The goal is to avoid running out of energy while navigating through the gardens and rescuing the hedgehog.<br>
+![GitHub Logo](https://github.com/antoniapopeanga/Garden_Game/blob/master/Game-presentation-images/default_map.png)
+
