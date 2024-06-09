@@ -8,7 +8,6 @@ public interface TakeVisitor {
     default void take(Key key) {
     }
 
-    // TODO
 
     //Insecticide
     default void take(Insecticide insecticide)
